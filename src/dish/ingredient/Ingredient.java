@@ -17,6 +17,7 @@ public class Ingredient {
         this.bestBeforeDateTime = bestBeforeDateTime;
     }
 
+
     public IngredientType getType() {
         return type;
     }
